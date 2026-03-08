@@ -1,0 +1,11 @@
+node_modules/
+temp/
+*.log
+tsc-errors.txt
+test_output.txt
+benchmark-results.json
+tsconfig.tsbuildinfo
+.DS_Store
+dist/
+build/
+out/

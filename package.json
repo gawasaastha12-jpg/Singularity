@@ -1,0 +1,13 @@
+{
+  "name": "singularity-workspace",
+  "private": true,
+  "workspaces": [
+    "relativity-engine",
+    "relativity-engine/packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=app",
+    "test": "npm run test --workspace=relativity-engine",
+    "typecheck": "npm run typecheck --workspace=relativity-engine"
+  }
+}
