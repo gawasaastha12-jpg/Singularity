@@ -67,4 +67,7 @@ Concurrency: Web Workers + SharedArrayBuffer,
  Performance Highlights   
 ~20x speedup using Barnes–Hut vs direct summation at 8k bodies, 
 Stable energy drift within scientific tolerance bounds, 
-Real-time simulation at thousands of bodies, 
+Real-time simulation at thousands of bodies
+
+
+THIS APP IS DEPLOYED AT - https://gawasaastha12-jpg.github.io/Singularity/
